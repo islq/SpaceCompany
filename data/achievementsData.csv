@@ -1,0 +1,124 @@
+id,category,title,iconName,brackets,evaluator_description,progress_evaluator_description
+ach_121,Resources,Collect %s Plasma,plasmaIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Plasma,Resource amount divided by {x}
+ach_12,Resources,Collect %s Uranium,uraniumIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Uranium,Resource amount divided by {x}
+ach_13,Resources,Collect %s Lava,lavaIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Lava,Resource amount divided by {x}
+ach_5,Resources,Collect %s Oil,oilIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Oil,Resource amount divided by {x}
+ach_0,Resources,Collect %s Metal,metalIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Metal,Resource amount divided by {x}
+ach_1,Resources,Collect %s Gems,gemIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Gems,Resource amount divided by {x}
+ach_3,Resources,Collect %s Charcoal,charcoalIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Charcoal,Resource amount divided by {x}
+ach_2,Resources,Collect %s Wood,woodIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Wood,Resource amount divided by {x}
+ach_7,Resources,Collect %s Lunarite,lunariteIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Lunarite,Resource amount divided by {x}
+ach_8,Resources,Collect %s Methane,methaneIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Methane,Resource amount divided by {x}
+ach_9,Resources,Collect %s Titanium,titaniumIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Titanium,Resource amount divided by {x}
+ach_10,Resources,Collect %s Gold,goldIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Gold,Resource amount divided by {x}
+ach_11,Resources,Collect %s Silver,silverIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Silver,Resource amount divided by {x}
+ach_14,Resources,Collect %s Hydrogen,hydrogenIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Hydrogen,Resource amount divided by {x}
+ach_15,Resources,Collect %s Helium,heliumIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Helium,Resource amount divided by {x}
+ach_16,Resources,Collect %s Ice,iceIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Ice,Resource amount divided by {x}
+ach_17,Resources,Collect %s Meteorite,meteoriteIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Meteorite,Resource amount divided by {x}
+ach_4,Resources,Collect %s Science,technologyIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Science,Resource amount divided by {x}
+ach_6,Resources,Collect %s Rocket Fuel,rocketFuelIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Rocket Fuel,Resource amount divided by {x}
+ach_18,Producers,Build %s Charcoal Engines,EnergyIcon,"5,25,75,150,250",Build {x} Charcoal Engines,Number of Charcoal Engines divided by {x}
+ach_19,Producers,Build %s Solar Panels,EnergyIcon,"5,25,75,150,250",Build {x} Solar Panels,Number of Solar Panels divided by {x}
+ach_20,Producers,Build %s Methane Power Stations,EnergyIcon,"5,25,75,150,250",Build {x} Methane Power Stations,Number of Methane Power Stations divided by {x}
+ach_22,Producers,Build %s Nuclear Power Stations,EnergyIcon,"5,25,75,150,250",Build {x} Nuclear Power Stations,Number of Nuclear Power Stations divided by {x}
+ach_23,Producers,Build %s Magmatic Dynamos,EnergyIcon,"5,25,75,150,250",Build {x} Magmatic Dynamos,Number of Magmatic Dynamos divided by {x}
+ach_21,Producers,Build %s Fusion Reactors,EnergyIcon,"5,25,75,150,250",Build {x} Fusion Reactors,Number of Fusion Reactors divided by {x}
+ach_24,Producers,Build %s Super-Heaters,plasmaIcon,"5,25,75,150,250",Build {x} Super-Heaters,Number of Super-Heaters divided by {x}
+ach_25,Producers,Build %s Plasmatic Pits,plasmaIcon,"5,25,75,150,250",Build {x} Plasmatic Pits,Number of Plasmatic Pits divided by {x}
+ach_102,Producers,Build %s Electron Baths,plasmaIcon,"5,25,75,150,250",Build {x} Electron Baths,Number of Electron Baths divided by {x}
+ach_70,Producers,Build %s Grinders,uraniumIcon,"5,25,75,150,250",Build {x} Grinders,Number of Grinders divided by {x}
+ach_71,Producers,Build %s Cubic Teleposers,uraniumIcon,"5,25,75,150,250",Build {x} Cubic Teleposers,Number of Cubic Teleposers divided by {x}
+ach_72,Producers,Build %s Uranium Enrichers,uraniumIcon,"5,25,75,150,250",Build {x} Uranium Enrichers,Number of Uranium Enrichers divided by {x}
+ach_73,Producers,Build %s Yellowcake Recyclers,uraniumIcon,"5,25,75,150,250",Build {x} Yellowcake Recyclers,Number of Yellowcake Recyclers divided by {x}
+ach_105,Producers,Build %s Planetary Nuclear Plants,uraniumIcon,"5,25,75,150,250",Build {x} Planetary Nuclear Plants,Number of Planetary Nuclear Plants divided by {x}
+ach_74,Producers,Build %s Heat Resistant Crucibles,lavaIcon,"5,25,75,150,250",Build {x} Heat Resistant Crucibles,Number of Heat Resistant Crucibles divided by {x}
+ach_75,Producers,Build %s Lava Extractors,lavaIcon,"5,25,75,150,250",Build {x} Lava Extractors,Number of Lava Extractors divided by {x}
+ach_76,Producers,Build %s Igneous Extruders,lavaIcon,"5,25,75,150,250",Build {x} Igneous Extruders,Number of Igneous Extruders divided by {x}
+ach_77,Producers,Build %s Volcanic Veluptuators,lavaIcon,"5,25,75,150,250",Build {x} Volcanic Veluptuators,Number of Volcanic Veluptuators divided by {x}
+ach_106,Producers,Build %s Jupitonian Condensators,lavaIcon,"5,25,75,150,250",Build {x} Jupitonian Condensators,Number of Jupitonian Condensators divided by {x}
+ach_30,Producers,Build %s Small Pumps,oilIcon,"5,25,75,150,250",Build {x} Small Pumps,Number of Small Pumps divided by {x}
+ach_31,Producers,Build %s Pumpjacks,oilIcon,"5,25,75,150,250",Build {x} Pumpjacks,Number of Pumpjacks divided by {x}
+ach_32,Producers,Build %s Oil Fields,oilIcon,"5,25,75,150,250",Build {x} Oil Fields,Number of Oil Fields divided by {x}
+ach_33,Producers,Build %s Offshore Rigs,oilIcon,"5,25,75,150,250",Build {x} Offshore Rigs,Number of Offshore Rigs divided by {x}
+ach_107,Producers,Build %s Fossilator 9000s,oilIcon,"5,25,75,150,250",Build {x} Fossilator 9000s,Number of Fossilator 9000s divided by {x}
+ach_34,Producers,Build %s Miners,metalIcon,"5,25,75,150,250",Build {x} Miners,Number of Miners divided by {x}
+ach_35,Producers,Build %s Heavy Drills,metalIcon,"5,25,75,150,250",Build {x} Heavy Drills,Number of Heavy Drills divided by {x}
+ach_36,Producers,Build %s Giga Drills,metalIcon,"5,25,75,150,250",Build {x} Giga Drills,Number of Giga Drills divided by {x}
+ach_37,Producers,Build %s Quantum Drills,metalIcon,"5,25,75,150,250",Build {x} Quantum Drills,Number of Quantum Drills divided by {x}
+ach_108,Producers,Build %s Planetary Metal Extractors,metalIcon,"5,25,75,150,250",Build {x} Planetary Metal Extractors,Number of Planetary Metal Extractors divided by {x}
+ach_38,Producers,Build %s Gem Miners,gemIcon,"5,25,75,150,250",Build {x} Gem Miners,Number of Gem Miners divided by {x}
+ach_39,Producers,Build %s Advanced Drills,gemIcon,"5,25,75,150,250",Build {x} Advanced Drills,Number of Advanced Drills divided by {x}
+ach_40,Producers,Build %s Diamond Encrusted Drills,gemIcon,"5,25,75,150,250",Build {x} Diamond Encrusted Drills,Number of Diamond Encrusted Drills divided by {x}
+ach_41,Producers,Build %s Carbyne Drills,gemIcon,"5,25,75,150,250",Build {x} Carbyne Drills,Number of Carbyne Drills divided by {x}
+ach_42,Producers,Build %s Woodburners,charcoalIcon,"5,25,75,150,250",Build {x} Woodburners,Number of Woodburners divided by {x}
+ach_43,Producers,Build %s Furnaces,charcoalIcon,"5,25,75,150,250",Build {x} Furnaces,Number of Furnaces divided by {x}
+ach_44,Producers,Build %s Industrial Kilns,charcoalIcon,"5,25,75,150,250",Build {x} Industrial Kilns,Number of Industrial Kilns divided by {x}
+ach_45,Producers,Build %s Forest Fryers,charcoalIcon,"5,25,75,150,250",Build {x} Forest Fryers,Number of Forest Fryers divided by {x}
+ach_46,Producers,Build %s Sawmills,woodIcon,"5,25,75,150,250",Build {x} Sawmills,Number of Sawmills divided by {x}
+ach_47,Producers,Build %s Advanced Sawmills,woodIcon,"5,25,75,150,250",Build {x} Advanced Sawmills,Number of Advanced Sawmills divided by {x}
+ach_48,Producers,Build %s Automated Forestries,woodIcon,"5,25,75,150,250",Build {x} Automated Forestries,Number of Automated Forestries divided by {x}
+ach_49,Producers,Build %s Molecular Assemblers,woodIcon,"5,25,75,150,250",Build {x} Molecular Assemblers,Number of Molecular Assemblers divided by {x}
+ach_50,Resources,Collect %s Silicon,siliconIcon,"50,50000,50000000,50000000000,50000000000000",Collect {x} Silicon,Resource amount divided by {x}
+ach_51,Producers,Build %s Silicon Mines,siliconIcon,"5,25,75,150,250",Build {x} Silicon Mines,Number of Silicon Mines divided by {x}
+ach_52,Producers,Build %s Advanced Silicon Extractors,siliconIcon,"5,25,75,150,250",Build {x} Advanced Silicon Extractors,Number of Advanced Silicon Extractors divided by {x}
+ach_53,Producers,Build %s Laser Silica Harvesters,siliconIcon,"5,25,75,150,250",Build {x} Laser Silica Harvesters,Number of Laser Silica Harvesters divided by {x}
+ach_54,Producers,Build %s Quantum Silicon Refineries,siliconIcon,"5,25,75,150,250",Build {x} Quantum Silicon Refineries,Number of Quantum Silicon Refineries divided by {x}
+ach_55,Producers,Build %s Lunarite Extractors,lunariteIcon,"5,25,75,150,250",Build {x} Lunarite Extractors,Number of Lunarite Extractors divided by {x}
+ach_56,Producers,Build %s Methane Collectors,methaneIcon,"5,25,75,150,250",Build {x} Methane Collectors,Number of Methane Collectors divided by {x}
+ach_57,Producers,Build %s Titanium Mines,titaniumIcon,"5,25,75,150,250",Build {x} Titanium Mines,Number of Titanium Mines divided by {x}
+ach_58,Producers,Build %s Gold Extractors,goldIcon,"5,25,75,150,250",Build {x} Gold Extractors,Number of Gold Extractors divided by {x}
+ach_59,Producers,Build %s Silver Mines,silverIcon,"5,25,75,150,250",Build {x} Silver Mines,Number of Silver Mines divided by {x}
+ach_60,Producers,Build %s Hydrogen Collectors,hydrogenIcon,"5,25,75,150,250",Build {x} Hydrogen Collectors,Number of Hydrogen Collectors divided by {x}
+ach_61,Producers,Build %s Helium Extractors,heliumIcon,"5,25,75,150,250",Build {x} Helium Extractors,Number of Helium Extractors divided by {x}
+ach_62,Producers,Build %s Ice Harvesters,iceIcon,"5,25,75,150,250",Build {x} Ice Harvesters,Number of Ice Harvesters divided by {x}
+ach_63,Producers,Build %s Meteorite Processors,meteoriteIcon,"5,25,75,150,250",Build {x} Meteorite Processors,Number of Meteorite Processors divided by {x}
+ach_64,Producers,Build %s Science Labs,scienceIcon,"5,25,75,150,250",Build {x} Science Labs,Number of Science Labs divided by {x}
+ach_65,Producers,Build %s Rocket Fuel Refineries,rocketFuelIcon,"5,25,75,150,250",Build {x} Rocket Fuel Refineries,Number of Rocket Fuel Refineries divided by {x}
+ach_109,Producers,Build %s Diamond Accretion Chambers,gemIcon,"5,25,75,150,250",Build {x} Diamond Accretion Chambers,Number of Diamond Accretion Chambers divided by {x}
+ach_110,Producers,Build %s Microverse Pollutors,charcoalIcon,"5,25,75,150,250",Build {x} Microverse Pollutors,Number of Microverse Pollutors divided by {x}
+ach_111,Producers,Build %s Russian Forests,woodIcon,"5,25,75,150,250",Build {x} Russian Forests,Number of Russian Forests divided by {x}
+ach_112,Producers,Build %s TARDISes (TARDISs? TARDIS'? TARDIS'S? Should I just write the whole thing out?),siliconIcon,"5,25,75,150,250",Build {x} TARDISes (TARDISs? TARDIS'? TARDIS'S? Should I just write the whole thing out?),Number of TARDISes (TARDISs? TARDIS'? TARDIS'S? Should I just write the whole thing out?) divided by {x}
+ach_113,Producers,Build %s Moon Cloners,lunariteIcon,"5,25,75,150,250",Build {x} Moon Cloners,Number of Moon Cloners divided by {x}
+ach_114,Producers,Build %s Interstellar Cows,methaneIcon,"5,25,75,150,250",Build {x} Interstellar Cows,Number of Interstellar Cows divided by {x}
+ach_53,Producers,Build %s Drills of Titans,titaniumIcon,"5,25,75,150,250",Build {x} Drills of Titans,Number of Drills of Titans divided by {x}
+ach_115,Producers,Build %s David Guetta's Clubs,titaniumIcon,"5,25,75,150,250",Build {x} David Guetta's Clubs,Number of David Guetta's Clubs divided by {x}
+ach_62,Producers,Build %s Rocket Droids,goldIcon,"5,25,75,150,250",Build {x} Rocket Droids,Number of Rocket Droids divided by {x}
+ach_63,Producers,Build %s Asteroid Destroyers,goldIcon,"5,25,75,150,250",Build {x} Asteroid Destroyers,Number of Asteroid Destroyers divided by {x}
+ach_64,Producers,Build %s Death Stars Jr,goldIcon,"5,25,75,150,250",Build {x} Death Stars Jr,Number of Death Stars Jr divided by {x}
+ach_65,Producers,Build %s Chronal Actuators,goldIcon,"5,25,75,150,250",Build {x} Chronal Actuators,Number of Chronal Actuators divided by {x}
+ach_116,Producers,Build %s Philosopher's Stones,goldIcon,"5,25,75,150,250",Build {x} Philosopher's Stones,Number of Philosopher's Stones divided by {x}
+ach_66,Producers,Build %s Scout Ships,silverIcon,"5,25,75,150,250",Build {x} Scout Ships,Number of Scout Ships divided by {x}
+ach_67,Producers,Build %s Interplanetary Lasers,silverIcon,"5,25,75,150,250",Build {x} Interplanetary Lasers,Number of Interplanetary Lasers divided by {x}
+ach_68,Producers,Build %s Big Berthas,silverIcon,"5,25,75,150,250",Build {x} Big Berthas,Number of Big Berthas divided by {x}
+ach_69,Producers,Build %s Atomic Cannons,silverIcon,"5,25,75,150,250",Build {x} Atomic Cannons,Number of Atomic Cannons divided by {x}
+ach_117,Producers,Build %s Dead Werewolf Finders,silverIcon,"5,25,75,150,250",Build {x} Dead Werewolf Finders,Number of Dead Werewolf Finders divided by {x}
+ach_78,Producers,Build %s Hydrogen Collectors,hydrogenIcon,"5,25,75,150,250",Build {x} Hydrogen Collectors,Number of Hydrogen Collectors divided by {x}
+ach_79,Producers,Build %s Gaseous Magnets,hydrogenIcon,"5,25,75,150,250",Build {x} Gaseous Magnets,Number of Gaseous Magnets divided by {x}
+ach_80,Producers,Build %s Electrolytic Cells,hydrogenIcon,"5,25,75,150,250",Build {x} Electrolytic Cells,Number of Electrolytic Cells divided by {x}
+ach_81,Producers,Build %s Hindenburg Excavations,hydrogenIcon,"5,25,75,150,250",Build {x} Hindenburg Excavations,Number of Hindenburg Excavations divided by {x}
+ach_118,Producers,Build %s Star Harvesters,hydrogenIcon,"5,25,75,150,250",Build {x} Star Harvesters,Number of Star Harvesters divided by {x}
+ach_82,Producers,Build %s Helium Drones,heliumIcon,"5,25,75,150,250",Build {x} Helium Drones,Number of Helium Drones divided by {x}
+ach_83,Producers,Build %s Helium Tankers,heliumIcon,"5,25,75,150,250",Build {x} Helium Tankers,Number of Helium Tankers divided by {x}
+ach_84,Producers,Build %s Morphic Compressors,heliumIcon,"5,25,75,150,250",Build {x} Morphic Compressors,Number of Morphic Compressors divided by {x}
+ach_85,Producers,Build %s Gas Giant Skimmers,heliumIcon,"5,25,75,150,250",Build {x} Gas Giant Skimmers,Number of Gas Giant Skimmers divided by {x}
+ach_119,Producers,Build %s Caged Stars,heliumIcon,"5,25,75,150,250",Build {x} Caged Stars,Number of Caged Stars divided by {x}
+ach_86,Producers,Build %s Ice Pickaxes,iceIcon,"5,25,75,150,250",Build {x} Ice Pickaxes,Number of Ice Pickaxes divided by {x}
+ach_87,Producers,Build %s Ice Drills,iceIcon,"5,25,75,150,250",Build {x} Ice Drills,Number of Ice Drills divided by {x}
+ach_88,Producers,Build %s Ocean Freezers,iceIcon,"5,25,75,150,250",Build {x} Ocean Freezers,Number of Ocean Freezers divided by {x}
+ach_89,Producers,Build %s Mr Freezes,iceIcon,"5,25,75,150,250",Build {x} Mr Freezes,Number of Mr Freezes divided by {x}
+ach_120,Producers,Build %s Overexchange Condensors,iceIcon,"5,25,75,150,250",Build {x} Overexchange Condensors,Number of Overexchange Condensors divided by {x}
+ach_90,Producers,Build %s Meteorite Printers,meteoriteIcon,"5,25,75,150,250",Build {x} Meteorite Printers,Number of Meteorite Printers divided by {x}
+ach_91,Producers,Build %s Meteorite Webs,meteoriteIcon,"5,25,75,150,250",Build {x} Meteorite Webs,Number of Meteorite Webs divided by {x}
+ach_103,Producers,Build %s Planet Smashers,meteoriteIcon,"5,25,75,150,250",Build {x} Planet Smashers,Number of Planet Smashers divided by {x}
+ach_104,Producers,Build %s Nebulous Synthesizers,meteoriteIcon,"5,25,75,150,250",Build {x} Nebulous Synthesizers,Number of Nebulous Synthesizers divided by {x}
+ach_92,Producers,Build %s Home Science Kits,technologyIcon,"5,25,75,150,250",Build {x} Home Science Kits,Number of Home Science Kits divided by {x}
+ach_93,Producers,Build %s High School Sciences,technologyIcon,"5,25,75,150,250",Build {x} High School Sciences,Number of High School Sciences divided by {x}
+ach_94,Producers,Build %s University Laboratories,technologyIcon,"5,25,75,150,250",Build {x} University Laboratories,Number of University Laboratories divided by {x}
+ach_95,Producers,Build %s Scientific Observatories,technologyIcon,"5,25,75,150,250",Build {x} Scientific Observatories,Number of Scientific Observatories divided by {x}
+ach_101,Producers,Build %s Space Scientific Satellite Stations,technologyIcon,"5,25,75,150,250",Build {x} Space Scientific Satellite Stations,Number of Space Scientific Satellite Stations divided by {x}
+ach_98,Producers,Build %s Chemical Plants,rocketFuelIcon,"5,25,75,150,250",Build {x} Chemical Plants,Number of Chemical Plants divided by {x}
+ach_99,Producers,Build %s Oxidisation Chambers,rocketFuelIcon,"5,25,75,150,250",Build {x} Oxidisation Chambers,Number of Oxidisation Chambers divided by {x}
+ach_100,Producers,Build %s Hydrazine Catalysts,rocketFuelIcon,"5,25,75,150,250",Build {x} Hydrazine Catalysts,Number of Hydrazine Catalysts divided by {x}
+ach_96,Producers,Build %s Dyson Rings,EnergyIcon,"5,25,75,150,250",Build {x} Dyson Rings,Number of Dyson Rings divided by {x}
+ach_97,Producers,Build %s Dyson Swarms,EnergyIcon,"5,25,75,150,250",Build {x} Dyson Swarms,Number of Dyson Swarms divided by {x}

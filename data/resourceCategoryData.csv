@@ -1,0 +1,5 @@
+id,title,category,class
+energy,Energy,energy,
+earth,Earth Resources,earth,collapseEarth
+innerSol,Inner Planetary Resources,innerSol,collapseInnerPlanetary
+outerSol,Outer Planetary Resources,outerSol,collapseOuterPlanetary

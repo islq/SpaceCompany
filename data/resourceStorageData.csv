@@ -1,0 +1,19 @@
+id,desc,resource,cost,unlocked,costType,maxLevel
+storageUpgradePlasma,"Upgrade your Plasma storage size to ",plasma,"plasma:50",true,FIXED,-1
+storageUpgradeUranium,"Upgrade your Uranium storage size to ",uranium,"uranium:50, lunarite:20",true,FIXED,-1
+storageUpgradeLava,"Upgrade your Lava storage size to ",lava,"lava:50, lunarite:20",true,FIXED,-1
+storageUpgradeOil,"Upgrade your Oil storage size to ",oil,"oil:50, metal:20",true,FIXED,-1
+storageUpgradeMetal,"Upgrade your Metal storage size to ",metal,"metal:50",true,FIXED,-1
+storageUpgradeGem,"Upgrade your Gem storage size to ",gem,"gem:50, metal:20",true,FIXED,-1
+storageUpgradeCharcoal,"Upgrade your Charcoal storage size to ",charcoal,"charcoal:50, metal:20",true,FIXED,-1
+storageUpgradeWood,"Upgrade your Wood storage size to ",wood,"wood:50, metal:20",true,FIXED,-1
+storageUpgradeSilicon,"Upgrade your Silicon storage size to ",silicon,"silicon:50, lunarite:20",true,FIXED,-1
+storageUpgradeLunarite,"Upgrade your Lunarite storage size to ",lunarite,"lunarite:50, metal:400",true,FIXED,-1
+storageUpgradeMethane,"Upgrade your Methane storage size to ",methane,"methane:50, lunarite:20",true,FIXED,-1
+storageUpgradeTitanium,"Upgrade your Titanium storage size to ",titanium,"titanium:50, lunarite:20",true,FIXED,-1
+storageUpgradeGold,"Upgrade your Gold storage size to ",gold,"gold:50, lunarite:20",true,FIXED,-1
+storageUpgradeSilver,"Upgrade your Silver storage size to ",silver,"silver:50, lunarite:20",true,FIXED,-1
+storageUpgradeHydrogen,"Upgrade your Hydrogen storage size to ",hydrogen,"hydrogen:50, lunarite:20",true,FIXED,-1
+storageUpgradeHelium,"Upgrade your Helium storage size to ",helium,"helium:50, lunarite:20",true,FIXED,-1
+storageUpgradeIce,"Upgrade your Ice storage size to ",ice,"ice:50, lunarite:20",true,FIXED,-1
+storageUpgradeMeteorite,"Upgrade your Meteorite storage size to ",meteorite,"meteorite:50, lunarite:4",true,FIXED,-1

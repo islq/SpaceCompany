@@ -1,0 +1,21 @@
+resource_id,unlock_type,condition,initial_unlocked
+energy,initial,,false
+plasma,tech,unlockPlasma,false
+uranium,,false
+lava,wonder,Energetic Wonder,false
+oil,tech,unlockOil,false
+metal,initial,,true
+gem,initial,,true
+charcoal,,false
+wood,initial,,true
+silicon,explore,Mars,false
+lunarite,explore,Moon,false
+methane,explore,Venus,false
+titanium,explore,Mars,false
+gold,explore,AsteroidBelt,false
+silver,explore,AsteroidBelt,false
+hydrogen,explore,Jupiter,false
+helium,explore,Saturn,false
+ice,explore,Pluto,false
+meteorite,tech,unlockMeteorite,false
+science,,false

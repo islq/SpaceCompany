@@ -1,0 +1,21 @@
+id,name,desc,icon,category,baseCapacity,unlocked
+energy,Energy,"Energy is created by power sources such as steam engines, solar power and advances even to fusion power and nuclear energy. The maximum you can hold to start with is 100,000 Energy, but batteries are unlockable which can increase this.",energyIcon,energy,50000,false
+plasma,Plasma,"Plasma is the 4th state of matter and is used by Tier 4 machines and large space structures as an extreme power source for your company.",plasmaIcon,energy,50,false
+uranium,Uranium,"Metal is one of the primary resources. It is used for many things, including storage upgrades, machinery and most things in space.",uraniumIcon,energy,50,false
+lava,Lava,"Hard to handle and only found in volcanoes, Lava is one of the hardest resources to get.",lavaIcon,energy,50,false
+oil,Oil,"Oil is pumped up from the ground and is used to build Tier 2 resource gatherers.",oilIcon,earth,50,false
+metal,Metal,"Metal is one of the primary resources. It is used for many things, including storage upgrades, machinery and most things in space.",metalIcon,earth,50,true
+gem,Gem,"Gems are one of the primary resources. They are used for advanced machines and for powerful tools and components. They are more useful in later game.",gemIcon,earth,50,true
+charcoal,Charcoal,"Charcoal is a secondary tier resource and is used by Engines to produce power for your company. 1 Charcoal is created by burning wood",charcoalIcon,earth,50,false
+wood,Wood,"Wood is one of the primary resources. It is used more often in early game for tools and buildings.",woodIcon,earth,50,true
+silicon,Silicon,"Silicon is useful for automatic mining systems of the third tier. These will be very useful in building your first wonder. Despite being a high tier resource, it is found mainly on Earth by heating sand.",siliconIcon,earth,50,false
+lunarite,Lunarite,"Lunarite is found on the Moon and is a rare type of resource not found on Earth. It is much stronger than regular metal but is a lot harder to get.",lunariteIcon,innerSol,50,false
+methane,Methane,"Methane is a gas found in abundance on Venus. It can be used to power your company much more effectively than solid fuel.",methaneIcon,innerSol,50,false
+titanium,Titanium,"Titanium is a metal found mostly on Mars. It is used for building strong machines and methane power plants.",titaniumIcon,innerSol,50,false
+gold,Gold,"Gold is a metal found inside asteroids. It is used to build some Wonders and for complex machinery.",goldIcon,innerSol,50,false
+silver,Silver,"Silver is another metal most commonly found in the asteroid belt.",silverIcon,innerSol,50,false
+hydrogen,Hydrogen,"Hydrogen is extremely common on gas giants such as Jupiter and Saturn.",hydrogenIcon,outerSol,50,false
+helium,Helium,"Helium is the second most common element on gas giants such as Jupiter and Saturn.",heliumIcon,outerSol,50,false
+ice,Ice,"Ice, although it can be collected on Earth, is not nearly as profitable as flying to Pluto and back with space craft full of the stuff. It is mainly used for super-cooling technology necessary for Tier 4 machines.",iceIcon,outerSol,50,false
+meteorite,Meteorite,"Creating Meteorite is only possible from purer forms of energy than those created with earth technology. Therefore, Plasma is necessary to make the strong resource.",meteoriteIcon,outerSol,50,false
+science,Science Production,"Science is used for researching new technologies to further your progress in the game.",scienceIcon,,1000000,false
